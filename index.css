@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: darkblue;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* .home, .guest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+p {
+    margin: 0 0 10px 0;
+    background: black;
+    color: red;
+    padding: 35px;
+    font-size: 100px;
+    border-radius: 10px;
+}
+
+button {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+
+h3 {
+    color: white;
+}
